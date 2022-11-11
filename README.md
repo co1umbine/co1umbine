@@ -8,9 +8,14 @@ Here are some ideas to get you started:
 - 💪 I'm good at Unity/C# (VR/AR, OpenCV For Unity, Robot Simulation, Robot Operation, PlasticSCM, UniRx, BehaviourTree and Zenject).
 - ✨ My interests are VMC Protocol, Metaverse 3DAvatar, Illustration.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=co1umbine&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=co1umbine&layout=compact&hide=Jupyter\sNotebook)](https://github.com/anuraghazra/github-readme-stats)![co1umbine's GitHub stats](https://github-readme-stats.vercel.app/api?username=co1umbine&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=co1umbine)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=co1umbine&repo=quote-trainer)](https://github.com/co1umbine/quote-trainer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=co1umbine&repo=RobotSimulation)](https://github.com/co1umbine/RobotSimulation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=co1umbine&repo=NewYearsCard2021)](https://github.com/co1umbine/NewYearsCard2021)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=co1umbine&repo=ImageRecognition)](https://github.com/co1umbine/ImageRecognition)
+
 
 ### Works
 
