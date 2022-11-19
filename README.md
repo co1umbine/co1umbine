@@ -18,24 +18,32 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=co1umbine&repo=NewYearsCard2021)](https://github.com/co1umbine/NewYearsCard2021)
 
 
-### Works
+## Works
 
-#### Quote Trainer
-Calendar app that shows experiences with estimated time or completion time similar to estimated time of input schedule. Therefore you can adjust the estimated time based on experiences easily.
+### Quote Trainer
+タスク入力時に過去タスクの実行時間や見積もり時間を比較表示することで、より妥当な時間見積もりをサポートするカレンダーアプリです。
+
+Calendar app that shows your past schedules with estimated time or completion time when you input a schedule. Therefore you can adjust the estimated time based on experiences easily.
 
 https://github.com/co1umbine/quote-trainer
 
 ![image](https://user-images.githubusercontent.com/38975435/199670485-1f5435bd-16b7-4bed-8601-8178a9a0000b.png)![スクリーンショット_20221031_211526](https://user-images.githubusercontent.com/38975435/199005953-b15c0ba0-c739-4a49-ac31-16556c09b886.png)
 
-#### Robot Simulation by Unity
+### Robot Simulation by Unity
 6DoF Robot Picking Task Simulation. Using Articulation body. I implemented 6DoF IK method(Levenberg–Marquardt algorithm) and generating jerk minimum trajectory.
 
 https://github.com/co1umbine/RobotSimulation
 
 https://user-images.githubusercontent.com/38975435/178152239-cd4b20b8-a9e1-40e3-a7c5-39f10f94d941.mp4
 
+### Hand in AvatAR
+AR app that you can take Avatar's hand.
 
-#### AR WebApp by Unity
+https://user-images.githubusercontent.com/38975435/202843315-a7d772ba-786b-4388-a3f3-e711c8704fc7.mp4
+
+
+
+### AR WebApp by Unity
 Unity WebGL build. Using OpenCV For Unity.
 
 https://github.com/co1umbine/NewYearsCard2021
